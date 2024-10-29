@@ -13334,6 +13334,9 @@ input:checked + .toggle-bg {
 .aspect-\[1155\/678\] {
   aspect-ratio: 1155/678;
 }
+.\!h-96 {
+  height: 24rem !important;
+}
 .h-1 {
   height: 0.25rem;
 }
@@ -14129,6 +14132,9 @@ input:checked + .toggle-bg {
 .bg-clip-text {
   -webkit-background-clip: text;
           background-clip: text;
+}
+.bg-top {
+  background-position: top;
 }
 .fill-\[\#333\] {
   fill: #333;

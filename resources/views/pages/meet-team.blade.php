@@ -46,7 +46,9 @@
                                 <rect fill="url(#18302e52-9e2a-4c8e-9550-0cbb21b38e55)" width="52" height="24">
                                 </rect>
                             </svg>
-                            <span class="relative font-patua font-normal bg-[#2e91ce]/50 hover:bg-[#1da1f2]/90 rounded-tl-lg rounded-br-lg px-3">Meet </span>
+                            <span
+                                class="relative font-patua font-normal bg-[#2e91ce]/50 hover:bg-[#1da1f2]/90 rounded-tl-lg rounded-br-lg px-3">Meet
+                            </span>
                         </span>
                         The Dedicated Individuals Who Make Vitaway Tick.
                     </h2>
@@ -59,9 +61,10 @@
                 <div class="grid gap-5 mx-auto lg:grid-cols-2 lg:max-w-screen-xl mt-5">
                     {{-- Emmanuel HAKUZIMANA --}}
                     <div class="grid sm:grid-cols-6">
-                        <div class="relative w-full h-48 max-h-full rounded sm:h-auto sm:col-span-3 border-gray-200 border">
-                            <img class="absolute object-cover w-full h-full rounded" src="/images/Team/member-1.jpg"
-                                alt="Emmanuel HAKUZIMANA" />
+                        <div
+                            class="relative w-full !h-96 max-h-full rounded sm:h-auto sm:col-span-3 border-gray-200 border">
+                            <img class="absolute object-cover object-top w-full h-full rounded bg-top"
+                                src="/images/Team/member-1.jpg" alt="Emmanuel HAKUZIMANA" />
                         </div>
                         <div class="flex flex-col justify-center mt-5 sm:mt-0 sm:p-5 sm:col-span-3">
                             <p class="text-lg font-normal font-patua mb-3 text-gray-900">Emmanuel HAKUZIMANA</p>
@@ -101,9 +104,10 @@
 
                     {{-- Eric NIYONGIRA --}}
                     <div class="grid sm:grid-cols-6">
-                        <div class="relative w-full h-96 max-h-full rounded sm:h-auto sm:col-span-3 border-gray-200 border">
-                            <img class="absolute object-cover w-full h-full rounded" src="/images/Team/member-2.jpeg"
-                                alt="Eric NIYONGIRA" />
+                        <div
+                            class="relative w-full !h-96 max-h-full rounded sm:h-auto sm:col-span-3 border-gray-200 border">
+                            <img class="absolute object-cover object-top w-full h-full rounded bg-top"
+                                src="/images/Team/member-2.jpeg" alt="Eric NIYONGIRA" />
                         </div>
                         <div class="flex flex-col justify-center mt-5 sm:mt-0 sm:p-5 sm:col-span-3">
                             <p class="text-lg font-bold text-gray-900">Eric NIYONGIRA</p>
@@ -144,9 +148,10 @@
 
                     {{-- Steven SHIMIRWA --}}
                     <div class="grid sm:grid-cols-6">
-                        <div class="relative w-full h-96 max-h-full rounded sm:h-auto sm:col-span-3 border-gray-200 border">
-                            <img class="absolute object-cover w-full h-full rounded" src="/images/Team/member-3.jpg"
-                                alt="Steven SHIMIRWA" />
+                        <div
+                            class="relative w-full !h-96 max-h-full rounded sm:h-auto sm:col-span-3 border-gray-200 border">
+                            <img class="absolute object-cover object-top w-full h-full rounded bg-top"
+                                src="/images/Team/member-3.jpg" alt="Steven SHIMIRWA" />
                         </div>
                         <div class="flex flex-col justify-center mt-5 sm:mt-0 sm:p-5 sm:col-span-3">
                             <p class="text-lg font-bold text-gray-900">Steven SHIMIRWA</p>
@@ -171,9 +176,9 @@
                     {{-- MANIRABONA H. Patience --}}
                     <div class="grid sm:grid-cols-6">
                         <div
-                            class="relative w-full h-48 max-h-full rounded sm:h-auto sm:col-span-3 border-gray-200 border">
-                            <img class="absolute object-cover w-full h-full rounded" src="/images/Team/member-4.jpg"
-                                alt="MANIRABONA H. Patience" />
+                            class="relative w-full !h-96 max-h-full rounded sm:h-auto sm:col-span-3 border-gray-200 border">
+                            <img class="absolute object-cover object-top w-full h-full rounded bg-top"
+                                src="/images/Team/member-4.jpg" alt="MANIRABONA H. Patience" />
                         </div>
                         <div class="flex flex-col justify-center mt-5 sm:mt-0 sm:p-5 sm:col-span-3">
                             <p class="text-lg font-bold text-gray-900">Patience H. MANIRABONA</p>
@@ -215,9 +220,9 @@
                     {{-- Noella Lidvine ISINGIZWE --}}
                     <div class="grid sm:grid-cols-6">
                         <div
-                            class="relative w-full h-48 max-h-full rounded sm:h-auto sm:col-span-3 border-gray-200 border">
-                            <img class="absolute object-cover w-full h-full rounded" src="/images/Team/member-5.jpg"
-                                alt="Noella Lidvine ISINGIZWE" />
+                            class="relative w-full !h-96 max-h-full rounded sm:h-auto sm:col-span-3 border-gray-200 border">
+                            <img class="absolute object-cover object-top w-full h-full rounded bg-top"
+                                src="/images/Team/member-5.jpg" alt="Noella Lidvine ISINGIZWE" />
                         </div>
                         <div class="flex flex-col justify-center mt-5 sm:mt-0 sm:p-5 sm:col-span-3">
                             <p class="text-lg font-bold text-gray-900">Noella Lidvine ISINGIZWE</p>
@@ -245,9 +250,9 @@
                     {{-- Faustin NZITONDA --}}
                     <div class="grid sm:grid-cols-6">
                         <div
-                            class="relative w-full h-48 max-h-full rounded sm:h-auto sm:col-span-3 border-gray-200 border">
-                            <img class="absolute object-cover w-full h-full rounded" src="/images/Team/member-6.jpeg"
-                                alt="Faustin NZITONDA" />
+                            class="relative w-full !h-96 max-h-full rounded sm:h-auto sm:col-span-3 border-gray-200 border">
+                            <img class="absolute object-cover object-top w-full h-full rounded bg-top"
+                                src="/images/Team/member-6.jpeg" alt="Faustin NZITONDA" />
                         </div>
                         <div class="flex flex-col justify-center mt-5 sm:mt-0 sm:p-5 sm:col-span-3">
                             <p class="text-lg font-bold text-gray-900">Faustin NZITONDA</p>
