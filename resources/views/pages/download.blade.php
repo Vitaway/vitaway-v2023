@@ -37,7 +37,7 @@
                                             </defs>
                                             <rect fill="url(#6b0188f3-b7a1-4e9b-b95e-cad916bb3042)" width="52" height="24"></rect>
                                         </svg>
-                                        <span class="relative font-patua font-normal bg-white">All-in-One</span>
+                                        <span class="relative font-patua font-normal bg-[#2e91ce]/50 hover:bg-[#1da1f2]/90 rounded-tl-lg rounded-br-lg px-3">All-in-One</span>
                                     </span>
                                     Virtual Health Companion
                                     Empowering Your Wellness <br/> Comprehensive Care

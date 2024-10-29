@@ -462,8 +462,7 @@
                                 <div class="flex flex-shrink-0 -space-x-1">
                                     <img loading="lazy" width="400" height="400" decoding="async"
                                         class="h-6 w-6 max-w-none rounded-full ring-2 ring-white"
-                                        style="color:transparent" src="/images/Team/patience.jpg"
-                                        alt="Manirabona Patience">
+                                        style="color:transparent" src="/images/Team/member-5.jpg" alt="Noela Lidvine">
                                     <img loading="lazy" width="400" height="400" decoding="async"
                                         class="h-6 w-6 max-w-none rounded-full ring-2 ring-white"
                                         style="color:transparent" src="/images/Team/member-1.jpg"
@@ -474,7 +473,7 @@
                                         aria-labelledby="Niyongira Eric">
                                     <img loading="lazy" width="200" height="200" decoding="async"
                                         class="h-6 w-6 max-w-none rounded-full ring-2 ring-white"
-                                        style="color:transparent" src="/images/Team/member-4.jpeg" alt="SHimirwa steven">
+                                        style="color:transparent" src="/images/Team/member-3.jpg" alt="SHimirwa steven">
                                 </div>
 
                                 <span class="flex-shrink-0 text-xs font-bold leading-5">+100</span>
@@ -708,7 +707,7 @@
 
             <div
                 class="grid items-center justify-center grid-cols-2 text-gray-500 sm:gap-12 md:grid-cols-3 lg:grid-cols-6 dark:text-gray-400">
-                <a style="width: 50px !important; background: yellow" class="flex justify-center items-center"
+                <a style="width: 50px !important;" class="flex justify-center items-center"
                     href="https://www.undp.org/rwanda" rel="noopener" target="__blank" class="partner-logo">
                     <img src="https://www.undp.org/sites/g/files/zskgke326/files/2022-04/undp-logo-blue.svg"
                         alt="UNDP" class="img-fluid !w-30">
