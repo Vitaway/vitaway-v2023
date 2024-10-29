@@ -216,7 +216,7 @@
                     <div class="grid sm:grid-cols-6">
                         <div
                             class="relative w-full h-48 max-h-full rounded sm:h-auto sm:col-span-3 border-gray-200 border">
-                            <img class="absolute object-cover w-full h-full rounded" src="/images/Team/member-5.JPG"
+                            <img class="absolute object-cover w-full h-full rounded" src="/images/Team/member-5.jpg"
                                 alt="Noella Lidvine ISINGIZWE" />
                         </div>
                         <div class="flex flex-col justify-center mt-5 sm:mt-0 sm:p-5 sm:col-span-3">
