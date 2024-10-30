@@ -69,7 +69,7 @@
             $authUser = $authService->updateOrCreateUser();
             $authService->login($authUser);
 
-            return redirect($this->redirectTo);
+            return redirect()->intended('/');
         }
 
         /**
