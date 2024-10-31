@@ -51,7 +51,7 @@
                         <div class="post-entry d-block small-post-entry-v">
                             <div class="thumbnail">
                                 <div class="h-[250px] rounded-lg" href="{{ route('single.blog', ['blog' => $blog->slug]) }}">
-                                    <img src="{{ $blog->blogMedia->graphic }}" alt="{{ $blog->title }}" alt="{{ $blog->title }}" class="w-full h-full rounded-lg">
+                                    <img src="{{ $blog->blogMedia->graphic }}" alt="{{ $blog->title }}" alt="{{ $blog->title }}" class="w-full h-full rounded-lg object-cover">
                                 </div>
                             </div>
                             <div class="post-content mt-4">

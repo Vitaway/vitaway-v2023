@@ -1,6 +1,6 @@
 @extends('layouts.guest')
 
-@section('title') Passionate & Dedicated Individuals | Meet Our Team @stop
+@section('title') Dedicated Individuals | Meet Our Team @stop
 
 @section('metas')
     <meta name="robots" content="index, follow">
@@ -61,16 +61,15 @@
                 <div class="grid gap-5 mx-auto lg:grid-cols-2 lg:max-w-screen-xl mt-5">
                     {{-- Emmanuel HAKUZIMANA --}}
                     <div class="grid sm:grid-cols-6">
-                        <div
-                            class="relative w-full !h-96 max-h-full rounded sm:h-auto sm:col-span-3 border-gray-200 border">
+                        <div class="relative w-full !h-64 rounded sm:h-40 sm:col-span-3 border-gray-200 border">
                             <img class="absolute object-cover object-top w-full h-full rounded bg-top"
                                 src="/images/Team/member-1.jpg" alt="Emmanuel HAKUZIMANA" />
                         </div>
-                        <div class="flex flex-col justify-center mt-5 sm:mt-0 sm:p-5 sm:col-span-3">
+                        <div class="flex flex-col mt-2 sm:mt-0 sm:p-5 sm:col-span-3">
                             <p class="text-lg font-normal font-patua mb-3 text-gray-900">Emmanuel HAKUZIMANA</p>
                             <p class="mb-4 text-lg leading-5 text-gray-600 font-patua font-normal">Co-Founder & CEO</p>
                             <p class="text-gray-700 leading-6">
-                                I am passionate about promoting health and wellness to the community through digital
+                                Promoting health and wellness to the community through digital
                                 technology.
                             </p>
                             <div class="flex items-center space-x-3 mt-4">
@@ -104,17 +103,16 @@
 
                     {{-- Eric NIYONGIRA --}}
                     <div class="grid sm:grid-cols-6">
-                        <div
-                            class="relative w-full !h-96 max-h-full rounded sm:h-auto sm:col-span-3 border-gray-200 border">
+                        <div class="relative w-full !h-64 max-h-full rounded sm:h-auto sm:col-span-3 border-gray-200 border">
                             <img class="absolute object-cover object-top w-full h-full rounded bg-top"
                                 src="/images/Team/member-2.jpeg" alt="Eric NIYONGIRA" />
                         </div>
-                        <div class="flex flex-col justify-center mt-5 sm:mt-0 sm:p-5 sm:col-span-3">
+                        <div class="flex flex-col mt-2 sm:mt-0 sm:p-5 sm:col-span-3">
                             <p class="text-lg font-bold text-gray-900">Eric NIYONGIRA</p>
                             <p class="mb-4 text-md leading-5 text-gray-600 mt-2 font-patua font-normal">Co-founder &
                                 Business Strategy Development</p>
                             <p class="text-gray-700 leading-6">
-                                Passionate about conducting research and developing strategies to drive innovation in the
+                                Research and developing strategies to drive innovation in the
                                 fields of FinTech and HealthTech. 🚀
                             </p>
                             <div class="flex items-center space-x-3 mt-4">
@@ -148,17 +146,16 @@
 
                     {{-- Steven SHIMIRWA --}}
                     <div class="grid sm:grid-cols-6">
-                        <div
-                            class="relative w-full !h-96 max-h-full rounded sm:h-auto sm:col-span-3 border-gray-200 border">
+                        <div class="relative w-full !h-64 max-h-full rounded sm:h-auto sm:col-span-3 border-gray-200 border">
                             <img class="absolute object-cover object-top w-full h-full rounded bg-top"
                                 src="/images/Team/member-3.jpg" alt="Steven SHIMIRWA" />
                         </div>
-                        <div class="flex flex-col justify-center mt-5 sm:mt-0 sm:p-5 sm:col-span-3">
+                        <div class="flex flex-col mt-2 sm:mt-0 sm:p-5 sm:col-span-3">
                             <p class="text-lg font-bold text-gray-900">Steven SHIMIRWA</p>
                             <p class="mb-4 text-md leading-5 text-gray-600 mt-2 font-patua font-normal">Co-founder & Head
                                 of Clinical Medicine</p>
                             <p class="text-gray-700 leading-6">
-                                Passion, dedication and innovation powered by collaboration and critical thinking enhances
+                                Innovation powered by collaboration and critical thinking enhances
                                 and makes my work about health enhancement a success. </p>
                             <div class="flex items-center space-x-3 mt-4">
                                 <a href="https://www.linkedin.com/in/steven-shimirwa-0b4077178"
@@ -176,16 +173,16 @@
                     {{-- MANIRABONA H. Patience --}}
                     <div class="grid sm:grid-cols-6">
                         <div
-                            class="relative w-full !h-96 max-h-full rounded sm:h-auto sm:col-span-3 border-gray-200 border">
+                            class="relative w-full !h-64 max-h-full rounded sm:h-auto sm:col-span-3 border-gray-200 border">
                             <img class="absolute object-cover object-top w-full h-full rounded bg-top"
                                 src="/images/Team/member-4.jpg" alt="MANIRABONA H. Patience" />
                         </div>
-                        <div class="flex flex-col justify-center mt-5 sm:mt-0 sm:p-5 sm:col-span-3">
+                        <div class="flex flex-col mt-2 sm:mt-0 sm:p-5 sm:col-span-3">
                             <p class="text-lg font-bold text-gray-900">Patience H. MANIRABONA</p>
                             <p class="mb-4 text-md leading-5 text-gray-600 mt-2 font-patua font-normal">Software Engineer &
                                 Product Development</p>
                             <p class="text-gray-700 leading-6">
-                                Software developer with years of experience dedicated to creating innovative solutions for
+                                Software developer dedicated to creating innovative solutions for
                                 advancing different societies.
                             </p>
                             <div class="flex items-center space-x-3 mt-4">
@@ -219,20 +216,18 @@
 
                     {{-- Noella Lidvine ISINGIZWE --}}
                     <div class="grid sm:grid-cols-6">
-                        <div
-                            class="relative w-full !h-96 max-h-full rounded sm:h-auto sm:col-span-3 border-gray-200 border">
+                        <div class="relative w-full !h-64 max-h-full rounded sm:h-auto sm:col-span-3 border-gray-200 border">
                             <img class="absolute object-cover object-top w-full h-full rounded bg-top"
                                 src="/images/Team/member-5.jpg" alt="Noella Lidvine ISINGIZWE" />
                         </div>
-                        <div class="flex flex-col justify-center mt-5 sm:mt-0 sm:p-5 sm:col-span-3">
+                        <div class="flex flex-col mt-2 sm:mt-0 sm:p-5 sm:col-span-3">
                             <p class="text-lg font-bold text-gray-900">Noella Lidvine ISINGIZWE</p>
                             <p class="mb-4 text-md leading-5 text-gray-600 mt-2 font-patua font-normal">
                                 Gender Equality Specialist
                             </p>
                             <p class="text-gray-700 leading-6">
-                                BA in Healthcare Management from Southern New Hampshire University and pursuing a
-                                Master's in Public Health at Umeå University, focusing on health economics and sustainable
-                                development.
+                                Pursuing a Master's in Public Health at Umeå University,
+                                focusing on health economics and sustainable development.
                             </p>
                             <div class="flex items-center space-x-3 mt-4">
                                 <a href="https://www.linkedin.com/in/no%C3%ABlla-lidvine-isingizwe-706702161/"
@@ -250,17 +245,17 @@
                     {{-- Faustin NZITONDA --}}
                     <div class="grid sm:grid-cols-6">
                         <div
-                            class="relative w-full !h-96 max-h-full rounded sm:h-auto sm:col-span-3 border-gray-200 border">
+                            class="relative w-full !h-64 max-h-full rounded sm:h-auto sm:col-span-3 border-gray-200 border">
                             <img class="absolute object-cover object-top w-full h-full rounded bg-top"
                                 src="/images/Team/member-6.jpeg" alt="Faustin NZITONDA" />
                         </div>
-                        <div class="flex flex-col justify-center mt-5 sm:mt-0 sm:p-5 sm:col-span-3">
+                        <div class="flex flex-col mt-2 sm:mt-0 sm:p-5 sm:col-span-3">
                             <p class="text-lg font-bold text-gray-900">Faustin NZITONDA</p>
                             <p class="mb-4 text-md leading-5 text-gray-600 mt-2 font-patua font-normal">AI Data Engineer &
                                 Product Development</p>
                             <p class="text-gray-700 leading-6">
-                                With many years of experience in machine learning models, retraining models, and generating
-                                data analytic insights
+                                Years of experience in machine learning models, retraining models, and generating
+                                data analytic.
                             </p>
                             <div class="flex items-center space-x-3 mt-4">
                                 <a href="https://www.linkedin.com/in/faustinnzitonda/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"

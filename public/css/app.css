@@ -13334,6 +13334,9 @@ input:checked + .toggle-bg {
 .aspect-\[1155\/678\] {
   aspect-ratio: 1155/678;
 }
+.\!h-32 {
+  height: 8rem !important;
+}
 .\!h-96 {
   height: 24rem !important;
 }
@@ -13432,6 +13435,15 @@ input:checked + .toggle-bg {
 }
 .h-screen {
   height: 100vh;
+}
+.\!h-40 {
+  height: 10rem !important;
+}
+.\!h-56 {
+  height: 14rem !important;
+}
+.\!h-64 {
+  height: 16rem !important;
 }
 .max-h-full {
   max-height: 100%;
@@ -14080,6 +14092,10 @@ input:checked + .toggle-bg {
 .bg-white\/50 {
   background-color: rgb(255 255 255 / 0.5);
 }
+.bg-slate-300 {
+  --tw-bg-opacity: 1;
+  background-color: rgb(203 213 225 / var(--tw-bg-opacity));
+}
 .bg-opacity-50 {
   --tw-bg-opacity: 0.5;
 }
@@ -14145,6 +14161,10 @@ input:checked + .toggle-bg {
 .object-cover {
   -o-object-fit: cover;
      object-fit: cover;
+}
+.object-fill {
+  -o-object-fit: fill;
+     object-fit: fill;
 }
 .object-top {
   -o-object-position: top;

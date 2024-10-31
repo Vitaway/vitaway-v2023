@@ -1,11 +1,11 @@
 <template>
     <div class="w-[330px] bg-white border border-gray-200 rounded-lg shadow-sm dark:bg-gray-800 dark:border-gray-700">
         <div class="h-[200px]">
-            <img class="rounded-t-lg w-full h-full" :src="singleBlog.blog_media.graphic" :alt="singleBlog.title" />
+            <img class="rounded-t-lg w-full h-full object-cover" :src="singleBlog.blog_media.graphic" :alt="singleBlog.title" />
         </div>
         <div class="p-3">
             <a :href="'/blogs/'+singleBlog.id">
-                <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">
+                <h5 class="mb-2 text-md font-bold tracking-tight text-gray-900 dark:text-white">
                     {{ singleBlog.title }}
                 </h5>
             </a>
