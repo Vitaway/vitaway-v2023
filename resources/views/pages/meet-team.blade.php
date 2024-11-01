@@ -61,7 +61,7 @@
                 <div class="grid gap-5 mx-auto lg:grid-cols-2 lg:max-w-screen-xl mt-5">
                     {{-- Emmanuel HAKUZIMANA --}}
                     <div class="grid sm:grid-cols-6">
-                        <div class="relative w-full !h-64 rounded sm:h-40 sm:col-span-3 border-gray-200 border">
+                        <div class="relative w-full !h-64 max-h-full rounded sm:h-auto sm:col-span-3 border-gray-200 border">
                             <img class="absolute object-cover object-top w-full h-full rounded bg-top"
                                 src="/images/Team/member-1.jpg" alt="Emmanuel HAKUZIMANA" />
                         </div>
